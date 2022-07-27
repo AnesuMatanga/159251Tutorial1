@@ -25,7 +25,7 @@ public class Greeter {
     Greeter greeter = new Greeter(language, country, name);
     System.out.println(greeter.sayHello());
     System.out.println("Thank you!");
-    System.out.println("More Changes Done!);
+    System.out.println("More Changes Done! Now you can continue");
      
   }
 }
